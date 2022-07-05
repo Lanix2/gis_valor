@@ -1,0 +1,24 @@
+{
+  "name": "gis_valor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanix2/gis_valor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanix2/gis_valor/issues"
+  },
+  "homepage": "https://github.com/Lanix2/gis_valor#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "handlebars": "^4.7.7",
+    "leaflet": "^1.8.0"
+  }
+}
