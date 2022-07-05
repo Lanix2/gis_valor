@@ -1,8 +1,8 @@
 const e = require('express')
 let rtr = e.Router()
-const main = require("../")
+//const main = require("../")
 
-rtr.get('/', main)
+//rtr.get('/', main)
 
 rtr.post('')
 
